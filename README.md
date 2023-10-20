@@ -1,7 +1,20 @@
-- 👋 Hi, I’m @matthijsvandermaas
-- 👀 I’m interested in cooking, playing guitart en piano.
-- 🌱 I’m currently learning fullstack programing
-- 💞️ I’m looking to collaborate on a lot dont know what the future brings.
+# Mijn GitHub Repository
+
+Welkom op mijn GitHub repository! Dit is een kort overzicht van wat je hier kunt vinden:
+
+## Project Naam
+
+Beschrijf hier kort wat je project doet.
+
+## Installatie
+
+Beschrijf hier hoe mensen je project kunnen installeren of gebruiken. Bijvoorbeeld:
+
+```bash
+npm install my-project
+[Bekijk het Example.js bestand](https://github.com/gebruikersnaam/MijnAndereProject/blob/hoofd/example.js)
+
+
 - 📫 How to reach me via matthijsvandermaas@yahoo.com
 
 <!---
